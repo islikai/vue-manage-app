@@ -34,7 +34,7 @@ npm run server
     - 进入app项目
 ```bash
 npm i
-npm run server
+npm run dev
 ```
 
 4. 打开localhost:8080/login地址注册登录查看页面
